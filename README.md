@@ -4,11 +4,11 @@ This is a backend API for an e-commerce platform that includes categories, subca
 
 ## Table of Contents
 
-1. Prerequisites
-2. Installation
-3. Environment Variables
-4. Running the Application
-5. API Endpoints
+1. Prerequisites(#prerequisites)
+2. Installation(#installation)
+3. Environment Variables(#environment-variables)
+4. Running the Application(#running-the-application)
+5. API Endpoints(#api-endpoints)
 
 ### Prerequisites
 
@@ -23,8 +23,8 @@ To run the application locally, you will need:
 
 1. Clone the repository:
 ```bash
-git clone 
-cd 
+git clone https://github.com/saurabh78crypto/e-commerce_backend_api.git
+cd e-commerce_backend_api
 ```
 
 2. Install dependencies:
