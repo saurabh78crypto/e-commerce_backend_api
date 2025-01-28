@@ -4,11 +4,11 @@ This is a backend API for an e-commerce platform that includes categories, subca
 
 ## Table of Contents
 
-1. Prerequisites(#prerequisites)
-2. Installation(#installation)
-3. Environment Variables(#environment-variables)
-4. Running the Application(#running-the-application)
-5. API Endpoints(#api-endpoints)
+1. [Prerequisites](#prerequisites)
+2. [Installation](#installation)
+3. [Environment Variables](#environment-variables)
+4. [Running the Application](#running-the-application)
+5. [API Endpoints](#api-endpoints)
 
 ### Prerequisites
 
